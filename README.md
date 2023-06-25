@@ -10,8 +10,6 @@
 
 <img src="https://github.com/ArshadSheik/ArshadSheik/blob/master/about-me-gif.gif" height="20px" /> I am a final year Bachelor of Technology student, currently pursuing my studies in Computer Science Engineering at MGIT in Hyderabad, Telangana, India. With a passion for the field of computer science, I have honed my expertise in data management and data analytics, leveraging my skill set encompassing Python and SQL. Known for my highly analytical and detail-oriented approach, I strive to provide deep insights that are meticulously backed by thorough research. I am driven by a continuous quest for knowledge and growth, always eager to learn and adapt to new technologies and methodologies.
 
-In my professional journey, I am in search of a flexible and innovative environment that fuels my creativity and fosters outside-the-box thinking, ultimately leading to prolific output. I thrive in organizations with well-defined systems and processes, appreciating the structure they bring while leveraging strong networking channels to expand my professional connections.
-
 By combining my passion for computer science, proficiency in data management and analytics, and a keen eye for detail, I aim to make significant contributions in a dynamic and challenging role within the tech industry.
 
 ## 👨‍💻 A few things..!!
