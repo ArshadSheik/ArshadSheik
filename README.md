@@ -24,7 +24,7 @@ By combining my passion for computer science, proficiency in data management and
 
 - 💬 Ask me about anything [here](https://github.com/ArshadSheik/ArshadSheik/issues)
 
-- 📫 How to reach me **arshadsheik4801@gmail.com**
+- 📫 How to reach me **contact.arshadsheik@gmail.com**
 
 - ⚡ Fun fact
 
