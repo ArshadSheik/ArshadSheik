@@ -6,15 +6,15 @@
 
 ## 🚀 About Me
 
-#### **Sheik Arshad**, B. Tech, Computer Science Engineer, Passionate Data Enthusiast, Data Engineer, Analyst
+#### **Arshad Sheik**, B. Tech, Computer Science Engineer, Passionate Data Enthusiast, Data Engineer, Analyst
 
-<img src="https://github.com/ArshadSheik/ArshadSheik/blob/master/about-me-gif.gif" height="20px" /> I am a final year Bachelor of Technology student, currently pursuing my studies in Computer Science Engineering at MGIT in Hyderabad, Telangana, India. With a passion for the field of computer science, I have honed my expertise in data management and data analytics, leveraging my skill set encompassing Python and SQL. Known for my highly analytical and detail-oriented approach, I strive to provide deep insights that are meticulously backed by thorough research. I am driven by a continuous quest for knowledge and growth, always eager to learn and adapt to new technologies and methodologies.
+<img src="https://github.com/ArshadSheik/ArshadSheik/blob/master/about-me-gif.gif" height="20px" /> Diligent and proactive Data Engineer with 1.5 years of experience in data management, analytics, and pipeline optimization. Expertise in designing, developing, and optimizing data pipelines, ETL processes, and managing large-scale data systems. Skilled in leveraging Python, SQL, and cloud platforms (Azure, Snowflake, AWS) to deliver scalable data solutions. Adept at enhancing ETL processes for improved data quality and performance. Highly analytical, detail-oriented, and committed to providing deep insights backed by thorough research. Responsible and supportive leader with a proven track record of successfully managing teams to deliver critical project requests ahead of deadlines, streamline data intake, and develop innovative solutions. Experienced in troubleshooting and debugging ETL processes, ensuring timely issue resolution and contributing to overall project success. I am driven by a continuous quest for knowledge and growth, always eager to learn and adapt to new technologies and methodologies.
 
 By combining my passion for computer science, proficiency in data management and analytics, and a keen eye for detail, I aim to make significant contributions in a dynamic and challenging role within the tech industry.
 
 ## 👨‍💻 A few things..!!
 
-- 🔭 I’m currently working on **Building a Portfolio Website**
+- 🔭 I’m currently working on **Attaining Azure Certifications**
 
 - 🌱 I’m currently learning **DevOps**
 
